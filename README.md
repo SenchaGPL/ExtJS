@@ -5,4 +5,5 @@ The files has been split so that they can be uploaded to github. Use the followi
 
 ```
 cat ext-6.2.0-gpl-split* > ext-6.2.0-gpl.zip
+unzip ext-6.2.0-gpl.zip
 ```
